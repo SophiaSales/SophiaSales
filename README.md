@@ -1,5 +1,5 @@
 
-<h2> Hello! Eu sou  a Sophia Sales. </h2>
+<h2> Oii! Eu sou  a Sophia Sales. </h2>
 
 <h3> 👩️: 💻 Quem sou eu: </h3>
 
