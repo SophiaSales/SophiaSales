@@ -4,8 +4,8 @@
 <h3> 👩️: 💻 Quem sou eu: </h3>
 
 - 🔭 &nbsp; Estou estudando Java e suas frameworks;
-- 🎓 &nbsp; Esto cursando Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
-- 💼 &nbsp; No momento estou em busca de novas oportunidades de aprendizado;
+- 🎓 &nbsp; Estou cursando Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
+- 💼 &nbsp; No moumento estou em busca de novas oportunidades de aprendizado;
 - :computer: &nbsp; Gosto muito de participar de eventos sobre desnsenvolvimento web;
 
 
