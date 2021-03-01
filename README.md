@@ -26,6 +26,8 @@
 <a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sophiasales"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sophiasales&layout=compact&text_color=daf7dc&bg_color=151515" />
 </a>
 
+<a align="center" href="https://wakatime.com/dashboard"></a>
+
 <h2> Outros Contatos  </h2>
 
 <p align="center">
