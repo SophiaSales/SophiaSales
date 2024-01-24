@@ -3,9 +3,9 @@
 
 <h3> 👩️: 💻 Quem sou eu: </h3>
 
-- 🔭 &nbsp; Estou estudando densevolvimeto wed atualmente;
-- 🎓 &nbsp; Estou cursando Analise de Desenvolvimento de Sistemas na Unimetrocamp, e cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
-- 💼 &nbsp; Sou Estagiaria no CPQD;
+- 🔭 &nbsp; Estou estudando densevolvimeto Mobile atualmente;
+- 🎓 &nbsp; Sou Formada em Analise de Desenvolvimento de Sistemas na Unimetrocamp, e cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
+- 💼 &nbsp; Sou Analista de Sistemas no CPQD;
 - :computer: &nbsp; Gosto muito de participar de eventos sobre desnsenvolvimento web;
 
 
