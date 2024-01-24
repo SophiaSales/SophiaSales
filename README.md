@@ -11,10 +11,10 @@
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; Java | HTML | CSS  | JavaScript
-- :scroll: &nbsp; NodeJS | API 
-- :art: &nbsp; Visual Studio code | Eclipce | Whimsical
-- 🔧 &nbsp;| Git | Github 
+- 💻 &nbsp; Typescript | JavaScript 
+- :scroll: &nbsp; React Native | NodeJS | API 
+- :art: &nbsp; Visual Studio code | Whimsical
+- 🔧 &nbsp; Git | Github | Bitbucket | Android Studio | Xcode
 
 <br>
 
