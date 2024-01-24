@@ -1,15 +1,15 @@
 
-<h2> Oii! Eu sou  a Sophia Sales. </h2>
+<h2> Hi there! I'm Sophia Sales. </h2>
 
-<h3> 👩️: 💻 Quem sou eu: </h3>
+<h3> 👩️: 💻 About me: </h3>
 
-- 🔭 &nbsp; Estou estudando densevolvimeto Mobile atualmente;
-- 🎓 &nbsp; Sou Formada em Analise de Desenvolvimento de Sistemas na Unimetrocamp, e cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
-- 💼 &nbsp; Sou Analista de Sistemas no CPQD;
-- :computer: &nbsp; Gosto muito de participar de eventos sobre desnsenvolvimento web;
+- 🔭 &nbsp; Currently studying Mobile development;
+- 🎓 &nbsp; Graduated in Systems Development Analysis at Unimetrocamp, with a background in Electronics at COTUCA - Technical College of Campinas, Unicamp;
+- 💼 &nbsp; Working as a Systems Analyst at CPQD;
+- :computer: &nbsp; Enthusiastic about participating in web development events;
 
 
-<h3>:atom: &nbsp; Competências Técnicas: </h3>
+<h3>:atom: &nbsp; Technical Skills: </h3>
 
 - 💻 &nbsp; Typescript | JavaScript 
 - :scroll: &nbsp; React Native | NodeJS | API 
@@ -23,13 +23,10 @@
 
 </br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sophiasales"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sophiasales&layout=compact&text_color=daf7dc&bg_color=151515" />
-</a>
-
 <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=SophiaSales"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SophiaSales&layout=compact&text_color=daf7dc&bg_color=151515" />
 </a>
 
-<h2> Outros Contatos  </h2>
+<h2> Other Contacts </h2>
 
 <p align="center">
  
