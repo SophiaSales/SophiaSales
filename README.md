@@ -16,7 +16,7 @@
 - 🎓 Graduated in **Systems Analysis and Development – Unimetrocamp**
 - 🔧 Technical background in **Electronics – COTUCA / Unicamp**
 - 💼 Currently working as **Systems Analyst at CPQD**
-- 🚀 Interested in **mobile development, APIs and modern JavaScript technologies**
+- 🚀 Interested in **mobile development, APIs and modern technologies**
 
 ---
 ## 🚀 Tech Stack
