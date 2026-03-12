@@ -72,8 +72,8 @@
 ## ⏱ Coding Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SophiaSales&layout=compact&theme=radical&bg_color=0d1117&title_color=F85D7F&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SophiaSales&layout=compact&theme=radical"/>
+</p>
 
 </p>
 
